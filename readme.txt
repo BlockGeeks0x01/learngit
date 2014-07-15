@@ -5,3 +5,4 @@ Git tracks changes of file.
 Creating a new branch is quick and simple.
 Add a merge
 I'm doing a new job.
+Coding: utf-8
